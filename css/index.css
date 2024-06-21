@@ -1,0 +1,35 @@
+img{
+    margin-left: 40%;
+    margin-top: 6%;
+}
+.btn{
+    margin-left: 41%;
+    cursor: pointer;
+}
+h1{
+    text-align: center;
+    color: rgb(236, 22, 22);
+    margin-bottom: 60px;
+}
+select{
+    color: black;
+    background-color: transparent;
+    border-radius: 5px;
+    padding: 10px;
+    border-width: 2px;
+    border-color: gray;
+}
+#you{
+    margin-top: 30px;
+    margin-left: 28%;
+}
+#oponent{
+    margin-top: 30px;
+    margin-left: 10%;
+}
+label{
+    margin-left: 30%;
+    color: blue;
+    font-size: 20px;
+    font-family: "Fantasy";
+}
